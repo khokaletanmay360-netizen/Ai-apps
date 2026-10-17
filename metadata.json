@@ -1,0 +1,6 @@
+{
+  "name": "Noesis - Student Academic & Metacognitive Studio",
+  "description": "Comprehensive student syllabus tracker, AI psychological curriculum architect with university benchmarks, Parent-Adult-Child metacognitive doubt analyzer, and logic-flaw mistake rectifier.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
